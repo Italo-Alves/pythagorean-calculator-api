@@ -6,6 +6,11 @@ app = Flask(__name__)
 CORS(app)
 
 
+@app.route('/')
+def home():
+    return jsonify('Index')
+
+
 @app.route('/calculate', methods=['POST'])
 def calculate():
     try:
