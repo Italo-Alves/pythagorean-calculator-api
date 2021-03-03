@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>Calculadora de Pitagoras API</strong> <br />
+  <strong>Calculadora de Pitágoras API</strong> <br />
   <p></p>
   <a href="https://www.linkedin.com/in/italo-alves-48b9b897">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Italo%20Alves-29B6D1?label=Linkedin&logo=linkedin&style=flat-square">
@@ -20,7 +20,7 @@
 
 ## 📄 Descrição
 
-API simples desenvolvido em Python, utilizada no projeto <b>Calculadora de Pitagoras</b> acessa o projeto através <a href="https://github.com/Italo-Alves/pythagorean-calculator">desse link</a>.
+API simples desenvolvido em Python, utilizada no projeto <b>Calculadora de Pitágoras</b> acessa o projeto através <a href="https://github.com/Italo-Alves/pythagorean-calculator">desse link</a>.
 
 ## 🚀 Tecnologias
 
