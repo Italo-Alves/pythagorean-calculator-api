@@ -9,14 +9,14 @@
   </a>
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="#-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-endpoints">Endpoints</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
-</p>
+</p> -->
 
-<br />
+<!-- <br /> -->
 
 ## 📄 Descrição
 
