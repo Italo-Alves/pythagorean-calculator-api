@@ -16,7 +16,7 @@
   <a href="#-licença">Licença</a>
 </p> -->
 
-<!-- <br /> -->
+<br />
 
 ## 📄 Descrição
 
