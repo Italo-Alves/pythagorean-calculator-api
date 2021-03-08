@@ -9,7 +9,7 @@ CORS(app)
 
 @app.route('/')
 def home():
-    return jsonify('Index')
+    return jsonify('Calculadora de Pitagoras API')
 
 
 @app.route('/calculate', methods=['POST'])
