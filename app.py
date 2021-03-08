@@ -1,9 +1,15 @@
 from flask import Flask, jsonify, request
-import math
 from flask_cors import CORS
+import os
+import math
 
 app = Flask(__name__)
 CORS(app)
+
+
+@app.route('/')
+def home():
+    return jsonify('Calculadora de Pitagoras API')
 
 
 @app.route('/calculate', methods=['POST'])
@@ -38,4 +44,6 @@ def calculate():
         return dict(error="Calculation Error", exception=str(e), message="Review all fields and try again"), 400
 
 
-app.run()
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port)
